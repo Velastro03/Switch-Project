@@ -1,0 +1,227 @@
+body{
+    background-color: white;
+}
+
+.square{
+    height: 200px;
+    width: 800px;
+    background-color: navy;
+    position: relative;
+    left:200px;
+    top: 200px;
+    border-radius:100px;
+}
+
+.square2{
+    height: 200px;
+    width: 800px;
+    background-color: skyblue;
+    position: relative;
+    left:200px;
+    top: 250px;
+    border-radius:100px;
+}
+
+.circle1{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    background-image: linear-gradient(to right,white,grey);
+    border-radius: 100px;
+    position: relative;
+    left: 190px;
+    bottom: 200px;
+}
+
+.circle2{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    background-image: linear-gradient(to right,white,yellow);
+    border-radius: 100px;
+    position: relative;
+    left: 800px;
+    bottom: 150px;
+}
+
+.squaresun1{
+    height: 50px;
+    width: 190px;
+    background-color: white;
+    position: relative;
+    left: 300px;
+    bottom:230px;
+    border-radius: 100px;
+}
+
+
+.squaresun2{
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    position: relative;
+    left: 340px;
+    bottom:299px;
+    border-radius: 100px;
+}
+
+.squaresun3{
+    height: 50px;
+    width: 190px;
+    background-color: white;
+    position: relative;
+    left: 550px;
+    bottom:410px;
+    border-radius: 100px;
+}
+
+.squaresun4{
+    height: 50px;
+    width: 100px;
+    background-color: white;
+    position: relative;
+    left: 610px;
+    bottom:479px;
+    border-radius: 100px;
+}
+
+.circlesmall{
+    height: 30px;
+    width: 30px;
+    background-color: gold;
+    border-radius: 50px;
+    position: relative;
+    bottom: 700px;
+    left: 800px;
+}
+
+.circlesmall2{
+    height: 30px;
+    width: 30px;
+    background-color: gold;
+    border-radius: 50px;
+    position: relative;
+    bottom: 780px;
+    left: 500px;
+}
+
+.circlesmall3{
+    height: 30px;
+    width: 30px;
+    background-color: gold;
+    border-radius: 50px;
+    position: relative;
+    bottom: 699px;
+    left: 400px;
+}
+
+.circlesmall4{
+    height: 30px;
+    width: 30px;
+    background-color: gold;
+    border-radius: 50px;
+    position: relative;
+    bottom: 750px;
+    left: 600px;
+}
+
+
+.circlesmall5{
+    height: 30px;
+    width: 30px;
+    background-color: gold;
+    border-radius: 50px;
+    position: relative;
+    bottom: 910px;
+    left: 910px;
+}
+
+.circlemall1{
+    height: 10px;
+    width: 10px;
+    background-color: lightgrey;
+    border-radius: 50px;
+    position: relative;
+    bottom: 900px;
+    left: 710px;
+}
+
+.circlemall2{
+    height: 10px;
+    width: 10px;
+    background-color: lightgrey;
+    border-radius: 50px;
+    position: relative;
+    bottom: 900px;
+    left: 410px;
+}
+
+.circlemall3{
+    height: 10px;
+    width: 10px;
+    background-color: lightgrey;
+    border-radius: 50px;
+    position: relative;
+    bottom: 900px;
+    left: 950px;
+}
+
+.circlemall4{
+    height: 10px;
+    width: 10px;
+    background-color: lightgrey;
+    border-radius: 50px;
+    position: relative;
+    bottom: 900px;
+    left: 550px;
+}
+
+.circlemall5{
+    height: 10px;
+    width: 10px;
+    background-color: lightgrey;
+    border-radius: 50px;
+    position: relative;
+    bottom: 860px;
+    left: 750px;
+}
+
+.circlemoo{
+    height: 50px;
+    width: 50px;
+    background-color: darkgrey;
+    position: relative;
+    left: 250px;
+    bottom:910px;
+    border-radius: 100px;
+}
+
+.circlemoo2{
+    height: 30px;
+    width: 30px;
+    background-color: darkgrey;
+    position: relative;
+    left: 250px;
+    bottom:1030px;
+    border-radius: 100px;
+}
+
+.circlemoo3{
+    height: 20px;
+    width: 20px;
+    background-color: darkgrey;
+    position: relative;
+    left: 350px;
+    bottom:1030px;
+    border-radius: 100px;
+}
+
+.circlelit{
+    height: 30px;
+    width: 30px;
+    background-color: grey;
+    position: relative;
+    left: 290px;
+    bottom:960px;
+    border-radius: 100px;
+}
